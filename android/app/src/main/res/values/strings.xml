@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cap6-rc-0-non-spm</string>
+    <string name="title_activity_main">cap6-rc-0-non-spm</string>
+    <string name="package_name">com.dallastjames.ionic.cap6.rc0.0.nonspm</string>
+    <string name="custom_url_scheme">com.dallastjames.ionic.cap6.rc0.0.nonspm</string>
+</resources>
