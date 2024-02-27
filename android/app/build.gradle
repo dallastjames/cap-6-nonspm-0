@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace "com.dallastjames.ionic.cap6.rc0.0.nonspm"
+    namespace "com.dallastjames.ionic.cap6.rc0.nonspm"
     compileSdk rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "com.dallastjames.ionic.cap6.rc0.0.nonspm"
+        applicationId "com.dallastjames.ionic.cap6.rc0.nonspm"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
